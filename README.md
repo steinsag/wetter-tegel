@@ -3,6 +3,8 @@
 In diesem Repo spiele ich etwas mit Jupyter Notebooks, um verschiedene
 Datensätze zu analysieren.
 
+Jupyter Notebook direkt ausführen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/steinsag/wetter-tegel/master?filepath=notebooks%2Fwetter.ipynb)
+
 ## Setup der Conda Umgebung
 
 Die Jupyter Notebooks können zum Beispiel in einer Conda Umgebung ausgeführt
